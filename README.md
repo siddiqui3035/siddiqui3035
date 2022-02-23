@@ -22,3 +22,19 @@
 - 
 <h2 dir="auto"><a id="user-content-️-my-skills" class="anchor" aria-hidden="true" href="#️-my-skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"><img class="emoji" alt="hammer_and_wrench" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"></g-emoji> My Skills</h2>
 
+<p align="left" dir="auto"> 
+&emsp;
+<a href="https://www.tutorialspoint.com/cprogramming" rel="nofollow">
+    <img alt="C" src="https://camo.githubusercontent.com/676b7441a95a5f2e5dcb9a75ca82d6e81d8fca238c5331b826d5114faecb8c66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d3632393563633f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/c-6295cc?style=for-the-badge&amp;logo=c&amp;logoColor=white" style="max-width: 100%;">
+</a>
+<a href="https://www.w3schools.com/CPP" rel="nofollow">
+    <img alt="C++" src="https://camo.githubusercontent.com/841a08c60b059a97826adbe600fdfc4447e82a525bb7b6f8fa89c5ef35980dcc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d3030353939643f7374796c653d666f722d7468652d6261646765266c6f676f3d632b2b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/c++-00599d?style=for-the-badge&amp;logo=c++&amp;logoColor=white" style="max-width: 100%;">
+</a>
+<a href="https://www.php.net/" rel="nofollow">
+    <img alt="PHP" src="https://camo.githubusercontent.com/7b2760883975adefbf172d0bb8b5be52d08e1863bbf8b264f2f6350cf980b4fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d3835386462623f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/php-858dbb?style=for-the-badge&amp;logo=php&amp;logoColor=white" style="max-width: 100%;">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
+    <img alt="JAVASCRIPT" src="https://camo.githubusercontent.com/2da949c4a6926b7b7a2f1abade8a28727475a7bec6253dce548d11a56ba2a04f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d6566643731643f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/javascript-efd71d?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;">
+</a>
+</p>
+
