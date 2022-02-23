@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello Everyone 👋
 
-<!--
-**siddiqui3035/siddiqui3035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Laravel.
+- 🌱 I’m currently learning Tailwindcss.
+- 👯 I’m looking to collaborate on Laravel Project.
+- 🤔 I’m looking for help with my repositories.
+- 💬 Ask me about my previous work.
+- 📫 How to reach me: s.h.siddiqui58302gmail.com
+- 😄 Pronouns: Sunny
+- ⚡ Fun fact: Holydays
+
