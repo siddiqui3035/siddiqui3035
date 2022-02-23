@@ -30,14 +30,18 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
     <img alt="JAVASCRIPT" src="https://camo.githubusercontent.com/2da949c4a6926b7b7a2f1abade8a28727475a7bec6253dce548d11a56ba2a04f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d6566643731643f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/javascript-efd71d?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;">
 </a>
-</p>
-<h3 dir="auto"><a id="user-content--frameworks-and-libraries" class="anchor" aria-hidden="true" href="#-frameworks-and-libraries"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png"><img class="emoji" alt="point_right" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png"></g-emoji> Frameworks and Libraries</h3>
 <p align="left" dir="auto"> 
 &emsp;
-<a href="https://www.kali.org" rel="nofollow"> 
-     <img alt="Kali Linux" src="https://camo.githubusercontent.com/79bd771e84d7250c02b9f2647890cda4c87673e1b114e04bda724b946e929d2b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b616c69204c696e75782d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6b616c692d6c696e7578266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Kali Linux-100000?style=for-the-badge&amp;logo=kali-linux&amp;logoColor=white" style="max-width: 100%;">
+<a href="https://laravel.com" rel="nofollow"> 
+     <img alt="Laravel" src="https://camo.githubusercontent.com/04ed10395635ce9eafbf82f9d85972dc505980f307fda881214f150e5c455560/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c61726176656c2d6665323931613f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Laravel-fe291a?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" style="max-width: 100%;">
 </a>
-<a href="https://www.microsoft.com/en-us/windows" rel="nofollow"> 
-     <img alt="Windows" src="https://camo.githubusercontent.com/bef3e2b21ccad57041b710749feebf6c8e530e044b9330e329692355e0eaf62c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3031373864343f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Windows-0178d4?style=for-the-badge&amp;logo=windows&amp;logoColor=white" style="max-width: 100%;">
+<a href="https://vuejs.org" rel="nofollow"> 
+     <img alt="Vue.js" src="https://camo.githubusercontent.com/e83ace2e168ba0701be8f2970108954a92051a1c2f001b36132a485713606272/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5675656a732d3431623738333f7374796c653d666f722d7468652d6261646765266c6f676f3d7675652e6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Vuejs-41b783?style=for-the-badge&amp;logo=vue.js&amp;logoColor=white" style="max-width: 100%;">
+</a>
+<a href="https://getbootstrap.com" rel="nofollow">
+    <img alt="TailwindCss" src="https://camo.githubusercontent.com/f42c2a4332f4ace83dcbe7abdf4d9328f7e7052526ee78716d630812369e845d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d3761313166323f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/bootstrap-7a11f2?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" style="max-width: 100%;">
+</a> 
+<a href="https://tailwindcss.com" rel="nofollow"> 
+    <img alt="TailwindCss" src="https://camo.githubusercontent.com/61b25989ff1f740c1dd747c132cba7ddfdfae2ff7c46f1ae330489bc91c2d663/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d3037623664353f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e64637373266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/tailwindcss-07b6d5?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" style="max-width: 100%;">
 </a>
 </p>
