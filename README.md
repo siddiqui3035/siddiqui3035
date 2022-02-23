@@ -24,12 +24,6 @@
 
 <p align="left" dir="auto"> 
 &emsp;
-<a href="https://www.tutorialspoint.com/cprogramming" rel="nofollow">
-    <img alt="C" src="https://camo.githubusercontent.com/676b7441a95a5f2e5dcb9a75ca82d6e81d8fca238c5331b826d5114faecb8c66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d3632393563633f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/c-6295cc?style=for-the-badge&amp;logo=c&amp;logoColor=white" style="max-width: 100%;">
-</a>
-<a href="https://www.w3schools.com/CPP" rel="nofollow">
-    <img alt="C++" src="https://camo.githubusercontent.com/841a08c60b059a97826adbe600fdfc4447e82a525bb7b6f8fa89c5ef35980dcc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d3030353939643f7374796c653d666f722d7468652d6261646765266c6f676f3d632b2b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/c++-00599d?style=for-the-badge&amp;logo=c++&amp;logoColor=white" style="max-width: 100%;">
-</a>
 <a href="https://www.php.net/" rel="nofollow">
     <img alt="PHP" src="https://camo.githubusercontent.com/7b2760883975adefbf172d0bb8b5be52d08e1863bbf8b264f2f6350cf980b4fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d3835386462623f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/php-858dbb?style=for-the-badge&amp;logo=php&amp;logoColor=white" style="max-width: 100%;">
 </a>
