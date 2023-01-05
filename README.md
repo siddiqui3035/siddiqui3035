@@ -1,6 +1,6 @@
 ## Hello Everyone 👋
 ### I'm Sunny Siddiqui.
-I'm a Laravel developer. I'm working on Laravel last 2 years. I always try to serve proper and quility service to client. 
+I'm a Laravel developer. I'm working on Laravel last 2+ years. I always try to serve proper and quility service to client. 
 
 <canvas width="900" height="900" class="webgl-canvas js-globe-canvas" style="display: block; width: 900px; height: 900px;"></canvas>
 
