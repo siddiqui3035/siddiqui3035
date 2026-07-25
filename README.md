@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/siddiqui3035/siddiqui3035/main/me.gif" width="180" alt="Profile animation" />
-
-<br><br>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Sanaul+Haque+Siddique+(Sunny);Full-Stack+Developer+%7C+Founder;Building+UmbaCart+%26+Voom+Secret;Code+is+my+Guitar+%F0%9F%8E%B8" alt="Typing SVG" />
 
 </div>
@@ -119,22 +115,27 @@ Currently scaling two ventures while continuously shipping tools and application
 ### 📊 Live Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddiqui3035&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=E6EDF3&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddiqui3035&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00AA&currStreakLabel=00F0FF" height="165" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=siddiqui3035&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=E6EDF3" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=siddiqui3035&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00AA&currStreakLabel=00F0FF" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqui3035&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=E6EDF3" height="165" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqui3035&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=E6EDF3" />
 </div>
 
 <br>
 
-<!-- Snake Animation -->
+<!-- 
+  Snake Animation (will appear after you set up the GitHub Action)
+  Uncomment the line below after the action generates the SVG
+-->
+<!-- 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/siddiqui3035/siddiqui3035/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/siddiqui3035/siddiqui3035/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
+-->
 
 ---
 
