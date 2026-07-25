@@ -1,9 +1,15 @@
 <div align="center">
 
 ```bash
-siddiqui3035@github ~ $ neofetch
+siddiqui3035@github ~ $ cat ./profile.sys
 ```
 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3200&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Sanaul+Haque+Siddique;Full-Stack+Developer+%7C+Founder;Code+is+my+Guitar" alt="Typing SVG" />
 </div>
 
 <br>
@@ -11,89 +17,138 @@ siddiqui3035@github ~ $ neofetch
 <div align="center">
 
 ```text
-                    siddiqui3035@github
-                 ──────────────────────────────
-      .--.       OS: ............. Full-Stack Developer
-     |o_o |      Host: ........... UmbaCart & Voom Secret
-     |:_/ |      Kernel: ......... Laravel Specialist
-    //   \ \     Uptime: ......... 4+ years experience
-   (|     | )    IDE: ............ VS Code + Terminal
-  /'\_   _/`\    
-  \___)=(___/    Languages.Programming: Laravel, PHP, JavaScript, Kotlin, Python
-                 Languages.Computer: ... Blade, HTML, CSS, MySQL, FastAPI
-                 Languages.Real: ....... English, Bangla
-
-                 ── Stack ─────────────────────────────
-                 Backend: ........ Laravel, Livewire, Eloquent, MySQL
-                 Frontend: ....... Blade, JavaScript, Bootstrap
-                 Mobile: ......... Android (Kotlin)
-                 Tools: .......... Git, Linux, Automation, AI Prompts
-
-                 ── Highlights ────────────────────────
-                 • Founder of UmbaCart (AI e-commerce for SMEs)
-                 • Founder of Voom Secret (Women’s apparel brand)
-                 • Building practical tools for Bangladeshi businesses
-                 • Strong focus on clean & maintainable Laravel code
-
-                 ── Contact ───────────────────────────
-                 Email: .......... s.h.siddiqui5830@gmail.com
-                 Portfolio: ...... sunny.visitfolio.com
-                 Twitter: ........ @SunnySi40376924
-                 GitHub: ......... github.com/siddiqui3035
+      ████████╗███████╗ ██████╗██╗  ██╗
+      ╚══██╔══╝██╔════╝██╔════╝██║  ██║
+         ██║   █████╗  ██║     ███████║
+         ██║   ██╔══╝  ██║     ██╔══██║
+         ██║   ███████╗╚██████╗██║  ██║
+         ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝
+              HIGH-TECH PROFILE
 ```
 
 </div>
 
-<br><br>
+<br>
 
-### 👨‍💻 About Me
+<table>
+<tr>
+<td width="42%" align="center" valign="top">
 
-Full-Stack Developer and entrepreneur from Khulna, Bangladesh with 4+ years of professional experience in Laravel.  
+```text
+        🎸
+    ╔══════════╗
+    ║  ▓▓▓▓▓▓  ║
+    ║ ▓░███░▓  ║
+    ║▓░█████░▓ ║
+    ║ ▓░███░▓  ║
+    ║  ▓▓▓▓▓▓  ║
+    ╚══════════╝
+      NEON CORE
+```
 
-I focus on building real-world applications that solve practical problems for small and medium businesses. Currently scaling two ventures while continuing to ship open-source and client projects.
+**System Status**  
+`ONLINE` • `STABLE` • `SHIPPING`
+
+</td>
+<td width="58%" valign="top">
+
+```text
+siddiqui3035@matrix
+────────────────────────────────────────
+Identity     Sanaul Haque Siddique (Sunny)
+Role         Full-Stack Developer | Founder
+Location     Khulna, Bangladesh
+Experience   4+ years Laravel
+Signal       Building for SMEs
+
+── Core Modules ────────────────────────
+Backend      Laravel • PHP • Livewire • MySQL
+Frontend     Blade • JavaScript • Bootstrap
+Mobile       Android (Kotlin)
+AI Tools     Prompt Engineering • Automation
+
+── Active Projects ─────────────────────
+• UmbaCart ........ AI e-commerce platform
+• Voom Secret ..... Women’s apparel brand
+• Precision tools . Cost & automation systems
+```
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-### 🛠️ Tech Stack
+### ⚡ About the Operator
 
-**Backend**  
-`Laravel` `PHP` `Livewire` `Eloquent` `MySQL` `FastAPI`
+I am a Full-Stack Developer and founder who treats code like a high-performance instrument.  
+Every project is composed with precision, clean architecture, and real-world impact in mind.
 
-**Frontend**  
-`Blade` `JavaScript` `HTML5` `CSS3` `Bootstrap`
+I specialize in Laravel-powered systems and practical digital products for Bangladeshi businesses.  
+Currently focused on scaling **UmbaCart** (AI-assisted e-commerce) and **Voom Secret** (modern women’s fashion).
 
-**Mobile & Tools**  
-`Android` `Kotlin` `Git` `Linux` `Automation` `AI Prompt Engineering`
+> “Code is my guitar. I play to ship.”
 
 ---
 
-### 📊 GitHub Analytics
+### 🎛️ Tech Stack
+
+| Layer | Technologies |
+|-------|--------------|
+| **Backend** | `Laravel` `PHP` `Livewire` `Eloquent` `MySQL` `FastAPI` |
+| **Frontend** | `Blade` `JavaScript` `HTML5` `CSS3` `Bootstrap` |
+| **Mobile** | `Android` `Kotlin` |
+| **Infrastructure** | `Git` `Linux` `ngrok` `Automation` `AI Tools` |
+
+---
+
+### 🚀 Featured Systems
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| **UmbaCart** | AI-powered e-commerce platform built for Bangladeshi SMEs | Active |
+| **Voom Secret** | Women’s apparel brand with modern digital presence | Active |
+| **Stick Hero** | Interactive browser game | Public |
+| **Utility Tools** | Screen recording & local developer tools | Public |
+
+---
+
+### 📡 System Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddiqui3035&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" height="155" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddiqui3035&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddiqui3035&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=E6EDF3" height="158" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddiqui3035&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00AA&currStreakLabel=00F0FF" height="158" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqui3035&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqui3035&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=E6EDF3" height="158" />
 </div>
 
 ---
 
-### 🌐 Connect
+### 🔗 Signal Links
 
-- **Portfolio**: [sunny.visitfolio.com](https://sunny.visitfolio.com)
-- **Email**: [s.h.siddiqui5830@gmail.com](mailto:s.h.siddiqui5830@gmail.com)
-- **Twitter / X**: [@SunnySi40376924](https://twitter.com/SunnySi40376924)
+- **Portfolio** → [sunny.visitfolio.com](https://sunny.visitfolio.com)
+- **Email** → [s.h.siddiqui5830@gmail.com](mailto:s.h.siddiqui5830@gmail.com)
+- **Twitter / X** → [@SunnySi40376924](https://twitter.com/SunnySi40376924)
+- **GitHub** → [github.com/siddiqui3035](https://github.com/siddiqui3035)
 
 <br>
 
 <div align="center">
 
 ```bash
-siddiqui3035@github ~ $ echo "Building practical tools. Shipping consistently."
+siddiqui3035@github ~ $ echo "Strumming clean code. Amplifying real impact."
 ```
 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddiqui3035&style=flat-square&color=00F0FF" alt="Profile views" />
 </div>
