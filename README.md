@@ -1,71 +1,120 @@
-## Hello Everyone 👋
-### I'm Sunny Siddiqui.
-I'm a Laravel developer. I've been working with Laravel for the past 4+ years. I always strive to deliver proper and high-quality services to my clients.
+<div align="center">
 
-<canvas width="900" height="900" class="webgl-canvas js-globe-canvas" style="display: block; width: 900px; height: 900px;"></canvas>
+```bash
+siddiqui3035@github ~ $ whoami
+```
 
-<p align="left" dir="auto">
-  <a href="https://www.linkedin.com/in/sanaul-haque-siddique-a10b6313a/" rel="nofollow">
-    <img alt="Linkedin" title="Sunny Siddiqui Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/siddiqui3035">
-    <img alt="Github" title="Sunny Siddiqui Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://facebook.com/sunnysiddiqui040" rel="nofollow">
-    <img alt="Facebook" title="Sunny Siddiqui FaceBook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://www.instagram.com/sunnysiddique2" rel="nofollow">
-    <img alt="Instagram" title="Sunny Siddiqui Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="mailto:s.h.siddiqui5830@gmail.com">
-    <img alt="Gmail" title="Sunny Siddiqui Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif">
-    <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;">
-  </a> 
-</p>
+</div>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/siddiqui3035/siddiqui3035/main/me.gif">
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/siddiqui3035/siddiqui3035/main/me.gif" width="450" height="300" style="max-width: 100%;">
-</a></p>
+<br>
 
-- 🔭 I’m currently working on Laravel.
-- 🌱 I’m currently learning Tailwindcss.
-- 👯 I’m looking to collaborate on Laravel Project.
-- 🤔 I’m looking for help with my repositories.
-- 💬 Ask me anything what you want to know.
-- 📫 How to reach me: s.h.siddiqui5830@gmail.com
-- 😄 Pronouns: Sunny
-- ⚡ Fun fact: Holidays
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=Sanaul+Haque+Siddique+(Sunny);Laravel+Full-Stack+Developer;Founder+%7C+UmbaCart+%26+Voom+Secret" alt="Typing SVG" />
+</div>
 
-<h2 dir="auto"><a id="user-content-️-my-skills" class="anchor" aria-hidden="true" href="#️-my-skills"></a>🛠️ My Skills</h2>
+<br>
 
-<h3 dir="auto"><a id="user-content--programming-languages" class="anchor" aria-hidden="true" href="#-programming-languages"></a>🟢 Programming languages</h3>
-<a href="https://www.php.net/" rel="nofollow">
-  <img alt="PHP" src="https://img.shields.io/badge/php-858dbb?style=for-the-badge&logo=php&logoColor=white">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
-  <img alt="JAVASCRIPT" src="https://img.shields.io/badge/javascript-efd71d?style=for-the-badge&logo=javascript&logoColor=black" style="max-width: 100%;">
-</a>
+```
+┌────────────────────────────────────────────────────────────────────────────────────┐
+│  siddiqui3035@github                                                               │
+│  ────────────────────────────────────────────────────────────────────────────────  │
+│  Name        :  Sanaul Haque Siddique (Sunny)                                      │
+│  Role        :  Full-Stack Developer | Founder                                     │
+│  Experience  :  4+ years with Laravel                                              │
+│  Location    :  Khulna, Bangladesh                                                 │
+│  Focus       :  E-commerce • Mobile Apps • Automation • SME Tools                  │
+│                                                                                    │
+│  ── Stack ───────────────────────────────────────────────────────────────────────  │
+│  Backend     :  Laravel, PHP, Livewire, Eloquent, MySQL, FastAPI                   │
+│  Frontend    :  Blade, JavaScript, HTML/CSS, Bootstrap                             │
+│  Mobile      :  Android (Kotlin)                                                   │
+│  Other       :  Git, Linux, AI Prompt Engineering, Automation                      │
+│                                                                                    │
+│  ── Ventures ────────────────────────────────────────────────────────────────────  │
+│  • UmbaCart      → AI-powered e-commerce platform for Bangladeshi SMEs             │
+│  • Voom Secret   → Women’s apparel brand                                           │
+└────────────────────────────────────────────────────────────────────────────────────┘
+```
 
-<h3 dir="auto"><a id="user-content--frameworks-and-libraries" class="anchor" aria-hidden="true" href="#-frameworks-and-libraries"></a>🟢 Frameworks and Libraries</h3>
-<a href="https://laravel.com" rel="nofollow"> 
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-fe291a?style=for-the-badge&logo=laravel&logoColor=white" style="max-width: 100%;">
-</a>
-<a href="https://vuejs.org" rel="nofollow"> 
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vuejs-41b783?style=for-the-badge&logo=vue.js&logoColor=white" style="max-width: 100%;">
-</a>
-<a href="https://getbootstrap.com" rel="nofollow">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-7a11f2?style=for-the-badge&logo=bootstrap&logoColor=white" style="max-width: 100%;">
-</a> 
-<a href="https://tailwindcss.com" rel="nofollow"> 
-  <img alt="TailwindCss" src="https://img.shields.io/badge/tailwindcss-07b6d5?style=for-the-badge&logo=tailwindcss&logoColor=white" style="max-width: 100%;">
-</a>
+<br>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqui3035">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqui3035" style="max-width: 100%;">
-</a></p>
+### 👨‍💻 About Me
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=siddiqui3035&amp;show_icons=true">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=siddiqui3035&show_icons=true" style="max-width: 100%;">
-</a></p>
+I am a Full-Stack Developer and entrepreneur based in Khulna, Bangladesh, with over 4 years of hands-on experience in Laravel.
+
+I specialize in building practical, production-ready applications that solve real business problems — particularly for small and medium enterprises. My work spans e-commerce platforms, mobile applications, automation tools, and custom web systems.
+
+Currently, I am scaling two ventures:
+- **UmbaCart** — an AI-assisted e-commerce solution designed for Bangladeshi businesses
+- **Voom Secret** — a women’s apparel brand focused on comfort and modern fashion
+
+I continuously explore new technologies while maintaining a strong foundation in clean, maintainable Laravel architecture.
+
+---
+
+### 🛠️ Tech Stack
+
+**Backend**  
+`Laravel` `PHP` `Livewire` `Eloquent` `MySQL` `FastAPI` `RESTful APIs`
+
+**Frontend**  
+`Blade` `JavaScript` `HTML5` `CSS3` `Bootstrap`
+
+**Mobile**  
+`Android` `Kotlin`
+
+**Tools & Others**  
+`Git` `Linux` `ngrok` `AI Prompt Engineering` `Automation Scripts`
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| **UmbaCart** | AI-powered e-commerce platform with smart product capture for SMEs | Active |
+| **Voom Secret** | Women’s fashion & apparel brand | Active |
+| **Stick Hero Game** | Browser-based game built with JavaScript | Public |
+| **Screen Recording Tool** | Screen recording utility with audio support | Public |
+| **Coders Zone BD** | Web project for local developer community | Public |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddiqui3035&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddiqui3035&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="160" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqui3035&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" height="160" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+- **Portfolio**: [sunny.visitfolio.com](https://sunny.visitfolio.com)
+- **Email**: [s.h.siddiqui5830@gmail.com](mailto:s.h.siddiqui5830@gmail.com)
+- **Twitter / X**: [@SunnySi40376924](https://twitter.com/SunnySi40376924)
+- **GitHub**: [github.com/siddiqui3035](https://github.com/siddiqui3035)
+
+<br>
+
+<div align="center">
+
+```bash
+siddiqui3035@github ~ $ echo "Building practical tools. Shipping consistently."
+```
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddiqui3035&style=flat-square&color=00FF9C" alt="Profile views" />
+</div>
+```
